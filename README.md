@@ -49,7 +49,8 @@ alyn-portfolio/
 
 Visit my personal portfolio:
 
-**[Insert your GitHub Pages URL here]**
+
+GitHub:  https://github.com/Alyn1244/Personal_Porfolio_CIT240)
 
 ## Author
 
